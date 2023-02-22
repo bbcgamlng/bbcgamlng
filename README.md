@@ -2,6 +2,10 @@
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbcgamlng&theme=tokyonight&show_icons=true)
 
+
+
+
+
 - 🔭 I’m currently working on mini python projects
 - 🌱 I’m currently learning python, Hmtl and css
 - 👯 I’m looking to collaborate on Java Minecraft client
