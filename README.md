@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on mini python projects
 - 🌱 I’m currently learning python, Hmtl and css
 - 👯 I’m looking to collaborate on Java Minecraft client
-- - 📫 How to reach me: discord\allah is great 69BBC gaming#1117
+- 📫 How to reach me: allah is great 69BBC gaming#1117 (discord)
 
 <!--
 **bbcgamlng/bbcgamlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
