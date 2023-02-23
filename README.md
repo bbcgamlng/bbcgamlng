@@ -19,17 +19,17 @@ https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor
 #### Wanting to Learn:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
-https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324
+![test](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![test](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
 
 ### IDES:
-https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
-https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
-https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+![test](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![test](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)&nbsp;
+![test](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ### OS:
-https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+![test](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 <!--
 **bbcgamlng/bbcgamlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
