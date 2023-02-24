@@ -21,6 +21,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![test](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 ![test](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+
 
 ### IDES:
 ![test](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
@@ -30,18 +32,10 @@
 ### OS:
 ![test](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
-<!--
-**bbcgamlng/bbcgamlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mini python projects
-- 🌱 I’m currently learning python, Hmtl and css
-- 👯 I’m looking to collaborate on Java Minecraft client
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+### Contact me:
+![jithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![jithub](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)&nbsp;
+![jithub](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;
+![jithub](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
