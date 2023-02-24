@@ -1,15 +1,5 @@
 ![Metrics](https://metrics.lecoq.io/bbcgamlng?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbcgamlng&theme=tokyonight&show_icons=true)
-
-
-
-
-
-- 🔭 I’m currently working on mini python projects
-- 🌱 I’m currently learning python, Hmtl and css
-- 👯 I’m looking to collaborate on Java Minecraft client
-- 📫 How to reach me: allah is great 69BBC gaming#1117 (discord)
 
 #### Currenty Learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -39,3 +29,15 @@
 ![jithub](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)&nbsp;
 ![jithub](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;
 ![jithub](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbcgamlng&theme=tokyonight&show_icons=true)
+
+
+
+
+
+- 🔭 I’m currently working on mini python projects
+- 🌱 I’m currently learning python, Hmtl and css
+- 👯 I’m looking to collaborate on Java Minecraft client
+- 📫 How to reach me: allah is great 69BBC gaming#1117 (discord)
