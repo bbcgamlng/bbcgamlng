@@ -29,13 +29,13 @@
 ![jithub](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbcgamlng&theme=tokyonight&show_icons=true)
 
 
 
 
 
-- 🔭 I’m currently working on mini python projects
-- 🌱 I’m currently learning python, Hmtl and css
+
+- 🔭 I’m currently working on Pythons projects
+- 🌱 I’m currently learning Java, Python, HTML and CSS
 - 👯 I’m looking to collaborate on Java Minecraft client
 - 📫 How to reach me: allah is great 69BBC gaming#1117 (discord)
